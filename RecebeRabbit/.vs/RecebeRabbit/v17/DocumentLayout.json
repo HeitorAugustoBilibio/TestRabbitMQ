@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\RabbitMQ\\RecebeRabbit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3B5837-BD0A-46D4-B1A0-A2485EA2FD23}|RecebeRabbit\\RecebeRabbit.csproj|d:\\repository\\rabbitmq\\receberabbit\\receberabbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3B5837-BD0A-46D4-B1A0-A2485EA2FD23}|RecebeRabbit\\RecebeRabbit.csproj|solutionrelative:receberabbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repository\\RabbitMQ\\RecebeRabbit\\RecebeRabbit\\Program.cs",
+              "RelativeDocumentMoniker": "RecebeRabbit\\Program.cs",
+              "ToolTip": "D:\\Repository\\RabbitMQ\\RecebeRabbit\\RecebeRabbit\\Program.cs",
+              "RelativeToolTip": "RecebeRabbit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:40:24.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

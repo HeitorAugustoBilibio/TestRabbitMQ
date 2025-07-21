@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8V3Lam2s0OI=",
+  "success": true,
+  "projectFilePath": "D:\\Repository\\RabbitMQ\\EnvioRabbit\\EnvioRabbit\\EnvioRabbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heitor\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\Heitor\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Heitor\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
